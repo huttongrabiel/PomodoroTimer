@@ -21,7 +21,7 @@ git clone https://github.com/huttongrabiel/PomodoroTimer.git
 CD into the /PomodoroTimer directory
 
 ```bash
-./pomodoro_timer.cpp
+./pomodoro_timer
 ```
 
 ## Contributing
